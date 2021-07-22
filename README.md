@@ -1,2 +1,0 @@
-# ourdb
-OurDB - Our Database

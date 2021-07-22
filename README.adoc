@@ -1,0 +1,14 @@
+# ourdb
+OurDB - Our Database
+
+## Run 
+
+```bash
+cargo run
+```
+
+## Compile 
+
+```bash
+cargo build
+```
