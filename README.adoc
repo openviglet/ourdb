@@ -4,7 +4,7 @@ OurDB - Our Database
 ## Run 
 
 ```bash
-cargo run
+cargo run --release
 ```
 
 ## Compile 

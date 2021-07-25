@@ -4,5 +4,5 @@ fn main() {
     let current_version: String = version::get_version("").to_owned();
     version_string.push_str(&current_version);
     println!("{}", version_string);
-
+    addition
 }
